@@ -1,8 +1,17 @@
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+    text-shadow: cyan 1px 1px; 
+    font-family: sans-serif 'Times New Roman', Georgia,  Times;
     color: #240fe7;
     text-align: center;
 }
 h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    text-shadow: lightseagreen 2px 2px 1px; 
     text-align: center;
+    font-family: sans-serif, 'Times New Roman', Times;
 }
